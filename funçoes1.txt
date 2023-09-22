@@ -1,0 +1,11 @@
+/* 
+1.
+a) 10 e 50 
+b) vai dar erro no console
+
+2.
+a) ela vai deixar o texto minúscula e verificar se tem a palavra cenoura
+b) I. eu gosto de cenoura // true
+   II. cenoura é bom pra vista // true
+   III. cenouras crescem na terra // false  
+*/

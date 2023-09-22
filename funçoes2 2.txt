@@ -1,0 +1,19 @@
+// a)
+function informacoes() {
+    console.log("Eu sou joao, tenho 15 anos, moro em São Leopoldo e sou estudante");
+  }
+  informacoes();
+  
+// b)
+  function dados (nome, idade, endereço, profissão) {
+    const mensagem = `Eu sou ${nome}, tenho ${idade} anos, moro em ${endereço} e sou ${profissão}.`
+    return mensagem
+    
+
+}
+const nome = "Mateus"
+let idade = 15
+const endereço = "São Leopoldo"
+const profissão = "estudante"
+const mensagem = dados(nome, idade, endereço, profissão)
+conso
